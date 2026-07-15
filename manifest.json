@@ -1,0 +1,26 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.generator.noise",
+  "name": "Digital Noise",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "MIT",
+  "compat": ">=0.1",
+  "kind": "code",
+  "runtime": "js",
+  "entry": "code/main.js",
+  "capabilities": [
+    "bitmap",
+    "params",
+    "canvas"
+  ],
+  "contributes": {
+    "generators": [
+      {
+        "id": "noise",
+        "name": "Digital Noise",
+        "entry": "generator"
+      }
+    ]
+  }
+}

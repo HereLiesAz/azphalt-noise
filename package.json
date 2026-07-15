@@ -1,0 +1,17 @@
+{
+  "name": "azphalt-generator-noise",
+  "version": "1.0.0",
+  "description": "Azphalt Generator: Digital Noise",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@azphalt/azp": "^0.1.0",
+    "@azphalt/azdk": "^0.1.0"
+  },
+  "devDependencies": {
+    "@azphalt/runtime-reference": "^0.1.0"
+  }
+}
