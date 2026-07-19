@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.generator.noise",
+  "id": "com.hereliesaz.azphalt.noise",
   "name": "Digital Noise",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "generators": [
       {
-        "id": "noise",
+        "id": "com.hereliesaz.azphalt.noise",
         "name": "Digital Noise",
         "entry": "generator"
       }
