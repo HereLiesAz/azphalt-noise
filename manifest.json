@@ -6,6 +6,7 @@
   "kind": "code",
   "license": "GPL-3.0-or-later",
   "compat": ">=0.1",
+  "description": "Generates full-frame monochrome static, a fresh random value for every pixel.",
   "author": "HereLiesAz",
   "runtime": "js",
   "entry": "code/main.js",
